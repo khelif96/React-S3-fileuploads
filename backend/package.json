@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/khelif96/React-S3-fileuploads#readme",
   "dependencies": {
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
     "dotenv": "^5.0.1",
